@@ -1,0 +1,36 @@
+/* 
+    10 = novice
+    15 = apprentice
+    20 = master
+*/
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-stretch: extra-expanded;
+    font-weight: 600px;
+    color: purple;
+    word-wrap: none;
+}
+
+div{
+    padding: 10px;
+    align-content: center;
+    line-height: 60px;
+    object-fit: contain;
+    outline-color: darkblue;
+    overflow-wrap: normal;
+    vertical-align: 50px;
+}
+
+label{
+    height: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-indent: 50px;
+    tab-size: 20px;
+    direction: ltr;
+    break-after: left;
+}
